@@ -34,6 +34,12 @@ Vous pouvez vous inspirer du code dans le répertoire `pages/xstaterubber` pour 
 
 Le code utilise la bibliothèque [Konva](https://konvajs.org/docs/index.html) pour le dessin des points et des lignes.
 
+## Démonstration
+
+J'ai ajouté une vidéo de démonstration pour prouver le bon fonctionnement de mon code.
+
+Vous pouvez également consulter mon dépôt GitHub ici : https://github.com/Estadieu/TP_genie_Log_Jean
+
 
 
 
